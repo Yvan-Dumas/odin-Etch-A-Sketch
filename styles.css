@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.squareDivs {
+    border: solid 1px black;
+    width: 200px;
+    height: 200px;
+}
